@@ -4,15 +4,15 @@ Kartaška igra Briškula
 
 Dobrodosao u igru:
 
-						        *  *
-				        		 **
+			        *  *
+				 **
 		****   ****  *  ****  *   *    *    *  *           *
 		*   *  *  *  *  *     *  *     *    *  *          * *
 		*   *  *  *  *  *     * *      *    *  *         *   *
 		*****  ****  *  ****  * *      *    *  *        * * * *   
-		*   *  * *   *     *  *  *     *    *  *	   *       *
-		*   *  *  *  *     *  *   *    *    *  *	  *         *
-		****   *   * *  ****  *    *   ******  ***** *			 *
+		*   *  * *   *     *  *  *     *    *  *       *       *
+		*   *  *  *  *     *  *   *    *    *  *      *         *
+		****   *   * *  ****  *    *   ******  ***** * 		 *
 
 
 Igra je jednostavna konzolna simulacija kartaške igre briškula koja je popularna
