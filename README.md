@@ -38,10 +38,10 @@ Pravila:
 				3.kralj						4
 				4.konj						3
 				5.fanat						2
-				6.7							0
-				7.6							0
-				8.5							0
-				9.4							0
+				6.7						0
+				7.6						0
+				8.5						0
+				9.4						0
 				10.2						0
 
 	Uvijek ima prednost karta iz zog koji je predmet igre i karta koja je prije bačena ako nije glavni zog ni jedna od 
